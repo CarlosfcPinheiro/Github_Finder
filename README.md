@@ -5,3 +5,6 @@ Um projeto para prática e construção de uma Fetch API para consumir a API do 
 - HTML5
 - CSS3
 - Javascript
+
+## Link para o site
+https://carlosfcpinheiro.github.io/Github_Finder/
